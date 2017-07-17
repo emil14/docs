@@ -9,7 +9,7 @@
         doc: {
           title: 'Select',
           desc: 'Select fields components are used for collecting user provided information from a list of options.',
-          component: 'select',
+          component: 'selects',
           edit: 'SelectView',
           examples: [
             { header: 'Light theme', file: 'selects/1', desc: 'A standard single select has a multitude of configuration options.' },
